@@ -309,7 +309,7 @@ template {
 }
 
 .ranking {
-  background-image: url(../image/dia_back.png);
+  background-image: url(.//dia_back.png);
   background-size: 90% 100%;
   background-repeat: no-repeat;
   background-position: center;
