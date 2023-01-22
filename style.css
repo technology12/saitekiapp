@@ -486,6 +486,15 @@ a {
   margin: 11px 0;
 }
 
+#step3 {
+    box-shadow: none;
+    background-color: rgb(236, 236, 236);
+}
+#step4 {
+    box-shadow: none;
+    background-color: rgb(236, 236, 236);
+}
+
 .badge1 {
   background-color: rgba(142, 198, 63, 0.5019607843);
 }
