@@ -584,13 +584,13 @@ a {
   color: #FF5C5C;
 }
 
-#step5 {
-  margin: 50px 0px 30px;
+#step6 {
+  margin: 50px auto;
 }
 #step5 a {
   display: block;
   margin: 0 auto;
-  width: 115px;
+  width: 150px;
 }
 
 .hidden {
